@@ -1,8 +1,8 @@
 import 'dart:convert';
-import 'package:http/http.dart' as http;
 import 'package:juan_serna_9_2021_2_p1/models/response.dart';
 import 'package:juan_serna_9_2021_2_p1/models/characters_potter.dart';
 import 'constans.dart';
+import 'package:http/http.dart' as http;
 
 
 class ApiHelper{

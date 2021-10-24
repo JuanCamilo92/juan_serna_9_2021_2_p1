@@ -1,3 +1,3 @@
 class Constans{
-  static String get apiUrl => 'http://hp-api.herokuapp.com';
+  static String get apiUrl => 'https://hp-api.herokuapp.com';
 }
